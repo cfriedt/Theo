@@ -3,23 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gregdavill.github.io/OrangeCrab/categories/</loc>
+    <loc>https://gregdavill.github.io/OrangeCrab/r0.1/docs/downloads/</loc>
+    <lastmod>2020-01-27T21:54:48+10:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gregdavill.github.io/OrangeCrab/</loc>
+    <loc>https://gregdavill.github.io/OrangeCrab/r0.2/docs/downloads/</loc>
+    <lastmod>2020-01-27T21:54:48+10:30</lastmod>
   </url>
   
   <url>
     <loc>https://gregdavill.github.io/OrangeCrab/r0.1/</loc>
+    <lastmod>2020-01-27T21:54:48+10:30</lastmod>
   </url>
   
   <url>
     <loc>https://gregdavill.github.io/OrangeCrab/r0.2/</loc>
+    <lastmod>2020-01-27T21:54:48+10:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gregdavill.github.io/OrangeCrab/tags/</loc>
+    <loc>https://gregdavill.github.io/OrangeCrab/</loc>
+    <lastmod>2020-01-27T21:54:48+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gregdavill.github.io/OrangeCrab/r0.1/docs/overview/</loc>
+    <lastmod>2020-01-27T21:54:48+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gregdavill.github.io/OrangeCrab/r0.2/docs/overview/</loc>
+    <lastmod>2020-01-27T21:54:48+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gregdavill.github.io/OrangeCrab/r0.1/docs/pinout/</loc>
+    <lastmod>2020-01-27T21:54:48+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gregdavill.github.io/OrangeCrab/r0.2/docs/pinout/</loc>
+    <lastmod>2020-01-27T21:54:48+10:30</lastmod>
   </url>
   
 </urlset>
