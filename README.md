@@ -16,7 +16,7 @@ Theo is an OSHW SDR (Software Defined Radio) based on the ECP5 FPGA. It's main p
 * AD9364 Transceiver
     * 70 MHz to 6 GHz
     * 1 RX chain / 1 TX chain, full duplex
-    * board-space dependent
+    * 2nd channel (AD9361) board-space dependent
 * DDR3L Memory
     * 128 Mbytes (1Gbit)
     * 64M x16
