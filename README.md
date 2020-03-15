@@ -38,9 +38,7 @@ Theo is an OSHW SDR (Software Defined Radio) based on the ECP5 FPGA. It's main p
 * JTAG
     * TBD - possibly [TagConnect](https://www.tag-connect.com/product/tc2030-ctx-nl-6-pin-no-legs-cable-with-10-pin-micro-connector-for-cortex-processors)
 * User I/O
-    * 1x Button 
-    * 1x RGB LED
-    * 20x I/O on 0.1" headers
+    * TBD
 * Analog System
     * TBD
 * Feather Format Board
